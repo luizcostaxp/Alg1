@@ -1,0 +1,3 @@
+- Escolha de Matriz de Adjacencia em detrimento de lista de adj. devido a facilidade e 
+rapidez na verificação de existencia de vértice, além disso a aplicação tem "poucos"
+vértices.
